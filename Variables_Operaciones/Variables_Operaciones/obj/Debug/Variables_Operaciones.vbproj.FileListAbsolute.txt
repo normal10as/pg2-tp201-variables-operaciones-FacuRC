@@ -1,0 +1,11 @@
+C:\Users\Facu\Desktop\Trabajos\Variables_Operaciones\Variables_Operaciones\obj\Debug\Variables_Operaciones.vbprojResolveAssemblyReference.cache
+C:\Users\Facu\Desktop\Trabajos\Variables_Operaciones\Variables_Operaciones\obj\Debug\Variables_Operaciones.Resources.resources
+C:\Users\Facu\Desktop\Trabajos\Variables_Operaciones\Variables_Operaciones\obj\Debug\Variables_Operaciones.vbproj.GenerateResource.cache
+C:\Users\Facu\Desktop\Trabajos\Variables_Operaciones\Variables_Operaciones\obj\Debug\Variables_Operaciones.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\Desktop\Trabajos\Variables_Operaciones\Variables_Operaciones\bin\Debug\Variables_Operaciones.exe.config
+C:\Users\Facu\Desktop\Trabajos\Variables_Operaciones\Variables_Operaciones\bin\Debug\Variables_Operaciones.exe
+C:\Users\Facu\Desktop\Trabajos\Variables_Operaciones\Variables_Operaciones\bin\Debug\Variables_Operaciones.pdb
+C:\Users\Facu\Desktop\Trabajos\Variables_Operaciones\Variables_Operaciones\bin\Debug\Variables_Operaciones.xml
+C:\Users\Facu\Desktop\Trabajos\Variables_Operaciones\Variables_Operaciones\obj\Debug\Variables_Operaciones.exe
+C:\Users\Facu\Desktop\Trabajos\Variables_Operaciones\Variables_Operaciones\obj\Debug\Variables_Operaciones.xml
+C:\Users\Facu\Desktop\Trabajos\Variables_Operaciones\Variables_Operaciones\obj\Debug\Variables_Operaciones.pdb
