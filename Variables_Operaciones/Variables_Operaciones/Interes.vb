@@ -8,7 +8,7 @@
     Dim tiempo As UShort
     Dim interesproducido As Single
 
-        Console.WriteLine("Ingrese monto: ")
+        Console.WriteLine("Ingrese    monto: ")
         monto = Console.ReadLine()
         Console.WriteLine("Ingrese interes anual: ")
         interesanual = Console.ReadLine()
